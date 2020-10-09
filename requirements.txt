@@ -1,0 +1,13 @@
+Requried libraries are:
+
+pandas
+numpy
+itertools
+
+from sklearn.model_selection  train_test_split
+
+from sklearn.feature_extraction.text  TfidfVectorizer
+
+from sklearn.linear_model PassiveAggressiveClassifier
+
+from sklearn.metrics import accuracy_score, confusion_matrix
